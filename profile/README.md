@@ -1,8 +1,14 @@
 # Glück IT — Enterprise Database & Software Solutions
 
-Willkommen bei **Glück IT** ([dozent.net](https://dozent.net)). Wir sind spezialisiert auf relationale Datenbanksysteme, Performance-Tuning, komplexe Datenbankmigrationen und moderne Softwarearchitektur.
+Willkommen bei **Glück IT** ([dozent.net](https://dozent.net)). Wir sind spezialisiert auf relationale Datenbanksysteme, High-Performance-Tuning, komplexe Datenbankmigrationen und anspruchsvolle Software- und Datenarchitekturen.
 
-Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freiberuflicher IT-Trainer, Senior Software-Architekt und Datenbankberater mit über 30 Jahren Praxiserfahrung in Entwicklung und Schulung.
+Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freiberuflicher IT-Trainer, Senior Software-Architekt und Datenbankberater mit über 30 Jahren Praxiserfahrung in Entwicklung, Consulting und Schulung.
+
+---
+
+### 📊 Referenzprojekt: Inside Filings
+
+- **[Inside Filings (inside-filings.com)](https://inside-filings.com/)** — Plattform für automatisierte Live-Marktdatenanalyse und SEC-Filing-Intelligence. Aggregiert und analysiert in Echtzeit Insider-Transaktionen (Form 4), institutionelle Portfolios (13F), Kongress-Trades und signifikante Beteiligungen (13D/G). Ein Praxisbeispiel für hochperformante Datenpipelines, Datenbank-Skalierung und automatisierte Datenextraktion.
 
 ---
 
@@ -15,12 +21,19 @@ Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freib
 
 ---
 
-### 🛠️ Open-Source-Tools & Web-Services
+### 📦 Eigene Produkte & Business-Software
 
-- **[pg-clusterbackup](https://github.com/glueck-it/pg-clusterbackup)** — Vollautomatisches Backup aller Datenbanken aller laufenden PostgreSQL-Instanzen/Cluster (Linux & Windows).
-- **[PostgreSQL Konfigurator](https://dozent.net/produkte/postgresql-konfigurator)** — Kostenloser Online-Rechner zur Generierung hardware-optimierter `postgresql.conf`- und `sysctl`-Konfigurationen.
-- **[BackSwift](https://dozent.net/produkte/backswift)** — Schlankes Datei-Backup-Tool mit ZIP- und AES-256-Verschlüsselung.
-- **[ugnaz Plattform](https://dozent.net/produkte/ugnaz)** — Modulare Enterprise-Business-Software & Web-Plattform.
+- **[SSRS Barcode/QRCode Custom Report Item](https://dozent.net/produkte/ssrs-barcode-qrcode-custom-report-item)** — Native Barcode- und 2D-QR-Code-Erweiterung für Microsoft SQL Server Reporting Services (SSRS).
+- **[BackSwift](https://dozent.net/produkte/backswift)** — Schlankes Datei-Backup-Tool mit ZIP- und AES-256-Verschlüsselung für Windows, Linux und macOS.
+- **[ugnaz Plattform](https://dozent.net/produkte/ugnaz)** — Modulare Enterprise Business-Software & Web-Plattform für Reporting, CMS und Zertifizierungen.
+- **[DocuDown](https://dozent.net/produkte/docudown)** — Automatisches Sammeln von Belegen und Dokumenten aus Portalen mit lokaler AES-256-Verschlüsselung.
+
+---
+
+### 🛠️ Kostenlose Web-Tools & Open Source
+
+- 🌐 **[PostgreSQL Konfigurator](https://dozent.net/produkte/postgresql-konfigurator)** — *(Kostenloses Web-Tool)* Online-Rechner zur Generierung hardware-optimierter `postgresql.conf`- und `sysctl`-Parameter (RAM-Sizing, work_mem, Checkpoints, HugePages).
+- 🐘 **[pg-clusterbackup](https://github.com/glueck-it/pg-clusterbackup)** — *(Open Source, MIT)* Vollautomatisches Backup aller Datenbanken aller laufenden PostgreSQL-Instanzen/Cluster in einem Durchlauf (Linux & Windows).
 
 ---
 
