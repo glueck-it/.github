@@ -1,14 +1,20 @@
 # Glück IT — Enterprise Database & Software Solutions
 
-Willkommen bei **Glück IT** ([dozent.net](https://dozent.net)). Wir sind spezialisiert auf relationale Datenbanksysteme, High-Performance-Tuning, komplexe Datenbankmigrationen und anspruchsvolle Software- und Datenarchitekturen.
+Willkommen bei **Glück IT** ([glueck.it](https://glueck.it/)). Wir sind spezialisiert auf relationale Datenbanksysteme, High-Performance-Tuning, komplexe Datenbankmigrationen und anspruchsvolle Software- und Datenarchitekturen.
 
-Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freiberuflicher IT-Trainer, Senior Software-Architekt und Datenbankberater mit über 30 Jahren Praxiserfahrung in Entwicklung, Consulting und Schulung.
+Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freiberuflicher IT-Trainer, Senior Software-Architekt und Datenbankberater — Softwareentwicklung seit 1986, über 30 Jahre Praxiserfahrung mit Datenbanken, Consulting und Schulung.
 
 ---
 
-### 📊 Referenzprojekt: Inside Filings
+### 📊 Produkt: Databula Reporting
 
-- **[Inside Filings (inside-filings.com)](https://inside-filings.com/)** — Plattform für automatisierte Live-Marktdatenanalyse und SEC-Filing-Intelligence. Aggregiert und analysiert in Echtzeit Insider-Transaktionen (Form 4), institutionelle Portfolios (13F), Kongress-Trades und signifikante Beteiligungen (13D/G). Ein Praxisbeispiel für hochperformante Datenpipelines, Datenbank-Skalierung und automatisierte Datenextraktion.
+- **[Databula Reporting (databula.de)](https://databula.de/)** — Berichtssystem für den eigenen Server, unter Linux oder Windows: Berichte und KPI-Dashboards im Browser gestalten, im eigenen Portal mit Rechten je Ordner veröffentlichen und automatisch an viele Empfänger verteilen, jeder mit seinen eigenen Zahlen. Eine [Alternative zu SQL Server Reporting Services](https://databula.de/umstieg/ssrs-alternative) und vergleichbaren Systemen — [Reporting ohne Cloud](https://databula.de/funktionen/reporting-ohne-cloud).
+
+---
+
+### 📈 Referenzprojekt: Inside Filings
+
+- **[Inside Filings (inside-filings.com)](https://inside-filings.com/)** — Plattform für automatisierte Marktdatenanalyse und SEC-Filing-Intelligence. Wertet laufend Insider-Transaktionen (Form 4), institutionelle Portfolios (13F), Kongress-Trades und signifikante Beteiligungen (13D/G) aus. Ein Praxisbeispiel für performante Datenpipelines, Datenbank-Skalierung und automatisierte Datenextraktion; die Pivot-Auswertungen und Exporte laufen auf Databula Reporting.
 
 ---
 
@@ -16,7 +22,7 @@ Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freib
 
 - **PostgreSQL Administration & Performance Tuning:** Konfigurations-Audits, Hochverfügbarkeit, Index- und Query-Optimierung ([Seminare & Consulting](https://dozent.net/seminare/postgresql/postgresql-administration)).
 - **Datenbank-Migrationen nach PostgreSQL:** Sichere Migration gewachsener Alt- und Enterprise-Systeme von [Oracle](https://dozent.net/seminare/postgresql/migration/migration-von-oracle-zu-postgresql), [Microsoft SQL Server](https://dozent.net/seminare/postgresql/migration/postgresql-migration-von-sql-server), [IBM DB2](https://dozent.net/seminare/postgresql/migration/postgresql-migration-von-db2), [Informix](https://dozent.net/seminare/postgresql/migration/postgresql-migration-von-informix) und [Sybase](https://dozent.net/seminare/postgresql/migration/postgresql-migration-von-sybase).
-- **Microsoft SQL Server & BI:** T-SQL Architektur, Reporting Services (SSRS), Analysis Services (SSAS) ([Schulungen](https://dozent.net/seminare/datenbanken/sql-server)).
+- **Microsoft SQL Server & BI:** T-SQL Architektur, Reporting Services (SSRS), Analysis Services (SSAS) ([Schulungen](https://dozent.net/seminare/sql-server/)).
 - **Individuelle Firmenschulungen & Inhouse-Workshops:** Praxisnahe Trainings für Entwicklungsteams und Administratoren ([dozent.net/seminare](https://dozent.net/seminare)).
 
 ---
@@ -39,6 +45,12 @@ Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freib
 
 ### 🌐 Kontakt & Weblinks
 
-- 📚 **Website & Seminarprogramm:** [dozent.net](https://dozent.net)
+- 🏢 **Glück IT:** [glueck.it](https://glueck.it/)
+- 📊 **Berichtssystem:** [databula.de](https://databula.de/)
+- 📚 **Seminare, Beratung & Entwicklung:** [dozent.net](https://dozent.net)
+- 📈 **Referenzprojekt:** [inside-filings.com](https://inside-filings.com/)
+- 🎓 **Online-Prüfungen:** [skilltest.de](https://skilltest.de/)
+- 🌐 **Hosting & DNS:** [ibou.net](https://ibou.net/)
 - 👤 **Persönliches Profil:** [Frank Glück (@fglueck)](https://github.com/fglueck)
+- ⚖️ **Impressum:** [glueck.it/footer/impressum](https://glueck.it/footer/impressum)
 - ✉️ **Projekt oder Schulung anfragen:** [dozent.net/kontakt](https://dozent.net/kontakt/kontakt)
