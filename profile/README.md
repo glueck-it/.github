@@ -40,7 +40,7 @@ Geleitet von **Frank Glück** ([@fglueck](https://github.com/fglueck)) — freib
 
 - 🌐 **[PostgreSQL Konfigurator](https://dozent.net/produkte/postgresql-konfigurator)** — *(Kostenloses Web-Tool)* Online-Rechner zur Generierung hardware-optimierter `postgresql.conf`- und `sysctl`-Parameter (RAM-Sizing, work_mem, Checkpoints, HugePages).
 - 🐘 **[pg-clusterbackup](https://github.com/glueck-it/pg-clusterbackup)** — *(Open Source, MIT)* Vollautomatisches Backup aller Datenbanken aller laufenden PostgreSQL-Instanzen/Cluster in einem Durchlauf (Linux & Windows).
-- 🛡️ **[pg-harden](https://github.com/glueck-it/pg-harden)** — *(Open Source, MIT)* Sicherheitsprüfung und Härtung für PostgreSQL 14–19: 72 Regeln für `postgresql.conf`, `pg_hba.conf`, TLS, Passwörter, Rollen und Rechte, Änderungsplan mit Rückweg.
+- 🛡️ **[pg-harden](https://github.com/glueck-it/pg-harden)** — *(Open Source, MIT)* Sicherheitsprüfung und Härtung für PostgreSQL 14–18 und 19rc1: 86 Regeln für `postgresql.conf`, `pg_hba.conf`, TLS, Passwörter, Rollen und Rechte, Änderungsplan mit Rückweg.
 
 ---
 
